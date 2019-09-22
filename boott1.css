@@ -1,0 +1,50 @@
+body
+{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(b1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+header h1 {
+	display: inline;
+    font-family: broadway;
+	font-weight: 400;
+	font-size: 50px;
+	float: center;
+	margin-top: 0px;
+    margin-left: 250px; 
+	color: white;
+}
+.form-group p{
+	color: white;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	font-size: 50px;
+	font-family: arial rounded MT bold;
+	margin-left: 530px;
+}
+
+#output{
+		margin-left: 490px;
+		margin-top: 20px;
+	}
+.videoo a
+	{
+		border: none;
+		outline: none;
+		height: 65px;
+		color: white;
+		font-size:20px;
+		margin-top: 0px;
+		margin-left: 600px;
+		font-family: arial rounded MT bold;
+		font-weight: bold;
+		font-size: 40px;
+		text-decoration: none;
+		
+	}
+.videoo a:hover {
+	color: yellow; 
+}
